@@ -1,0 +1,24 @@
+11
+how now brown <animal>
+<foo> now <color> cow
+who are you
+<a> <b> <a>
+<a> b
+c <a>
+<a> <c> <c> bajs
+<b> <b> <d> <d>
+<a> <c> <a> <e>
+<b> <d> <d> <b>
+a a a a
+a a a a
+b
+b
+<c>
+en
+andra
+<d>
+<k>
+<l>
+<a> <b> <c> <d>
+<a> <b> <c> <d>
+ 
